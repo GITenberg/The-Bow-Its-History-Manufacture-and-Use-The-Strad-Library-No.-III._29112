@@ -1,0 +1,29 @@
+_repo: The-Bow-Its-History-Manufacture-and-Use-The-Strad-Library-No.-III._29112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saint-George, Henry
+    alias: Saint-George, H. (Henry)
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '33701'
+    url: http://www.gutenberg.org/2009/agents/33701
+description: Illustrated by the author.
+gutenberg_issued: '2009-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Stringed instruments'
+title: 'The Bow, Its History, Manufacture and Use
+
+  ''The Strad'' Library, No. III.'
+url: http://www.gutenberg.org/ebooks/29112
